@@ -17,7 +17,7 @@
     "experimentalDecorators": true,
     "pretty": true,
     "strict": true,
-    "module": "es6",
+    "module": "commonjs",
     "target": "es5",
     "moduleResolution": "node",
     "sourceMap": true,
