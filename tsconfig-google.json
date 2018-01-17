@@ -14,6 +14,7 @@
     "noFallthroughCasesInSwitch": true,
     "noEmitOnError": true,
     "noImplicitReturns": true,
+    "experimentalDecorators": true,
     "pretty": true,
     "strict": true,
     "module": "es6",
@@ -27,5 +28,8 @@
   },
   "include": [
     "src"
+  ],
+  "exclude": [
+    "src/**/*.generated.*"
   ]
 }
