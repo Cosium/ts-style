@@ -1,8 +1,14 @@
 {
-  "name": "gts",
-  "version": "0.5.3",
+  "name": "@cosium-fork/gts",
+  "version": "0.5.300",
+  "publishConfig": {
+    "registry": "https://npm.cosium.com"
+  },
   "description": "Google TypeScript Style",
-  "repository": "google/ts-style",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cosium/ts-style"
+  },
   "main": "build/src/index.js",
   "bin": {
     "gts": "build/src/cli.js"
