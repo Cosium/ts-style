@@ -1,6 +1,6 @@
 {
   "name": "@cosium-fork/gts",
-  "version": "0.5.303",
+  "version": "0.5.304",
   "publishConfig": {
     "registry": "https://npm.cosium.com"
   },
